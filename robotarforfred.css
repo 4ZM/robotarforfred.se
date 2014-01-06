@@ -1,0 +1,20 @@
+html,
+body {
+  height: 100%;
+}
+
+/* Page wrapper to fit it under the navbar and push footer down */
+#wrap {
+    min-height: 100%;
+    height: auto;
+    /* Negative indent footer by its height */
+    margin: 0 auto -50px;
+    /* Pad top for nav bar and bottom for footer */
+    padding: 60px 0 40px;
+}
+
+#footer {
+    padding: 10px;
+    border-top:solid 1px #eee;
+    height: 50px;
+}
