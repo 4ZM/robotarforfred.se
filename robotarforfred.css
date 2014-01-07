@@ -8,13 +8,13 @@ body {
     min-height: 100%;
     height: auto;
     /* Negative indent footer by its height */
-    margin: 0 auto -50px;
-    /* Pad top for nav bar and bottom for footer */
-    padding: 60px 0 40px;
+    margin: 0 auto -30px;
+    /* Pad top for looks and bottom for footer */
+    padding: 40px 0 20px;
 }
 
 #footer {
-    padding: 10px;
+    padding: 4px;
     border-top:solid 1px #eee;
-    height: 50px;
+    height: 30px;
 }
